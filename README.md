@@ -46,7 +46,7 @@ A short selection of resources to help you get started with pen plotters.
 Pen plotters available to build or purchase, historical information, and restoration projects.
 
 - [AxiDraw](https://shop.evilmadscientist.com/productsmenu/846) - Pen plotter from Evil Mad Scientist.
-- [NextDraw](https://bantamtools.com/collections/bantam-tools-nextdraw) - The new AxiDraw, now from Bantam Tools.
+- [NextDraw](https://bantamtools.com/collections/bantam-tools-nextdraw) ([store](https://store.bantamtools.com/collections/bantam-tools-nextdraw)) - A Bantam Tools pen plotter and the successor to the AxiDraw.
 - [ArtFrame](https://bantamtools.com/collections/artframe) - Beefy flatbed pen plotters from Bantam Tools.
 - [Line-us](https://www.line-us.com) - A cute little kickstarted robotic drawing arm.
 - [Drawing Robot](https://www.thingiverse.com/thing:2349232) - 3d-Printable AxiDraw clone w/ Arduino CNC Shield controller running grbl firmware.
@@ -59,7 +59,6 @@ Pen plotters available to build or purchase, historical information, and restora
 - [BrachioGraph](https://www.brachiograph.art) - A cheap and simple plotter made from sticks, servos, and a Raspberry Pi running Python. Here's [video of a BrachioGraph talk at PyCon UK](https://www.youtube.com/watch?v=u4Jh1daCl60) from the creator.
 - [Arduino CNC Drawing Machine](https://www.diymachines.co.uk/arduino-cnc-drawing-machine) - A fairly simple 3d-printed AxiDraw-style plotter with good video documentation.
 - [PlotterXY](https://github.com/jamescarruthers/PlotterXY) - A coreXY plotter made from extrusion, 3d-printed parts, and an inexpensive 3d-printer control board.
-- [NextDraw](https://store.bantamtools.com/collections/bantam-tools-nextdraw) - The [Bantam Tools](https://www.bantamtools.com) successor to the popular AxiDraw pen plotter.
 - [openBrushograph](https://github.com/openBrushograph/openBrushograph_hardware) - Open source 3d-printable XY gantry and Z-stage designed for automated brush and pen painting.
 - [Lego-Pen-Plotter](https://github.com/Jormono1/Lego-Pen-Plotter) - Pen plotter built entirely of LEGO and programmed with PyBricks and Python.
 - [Makelangelo 5](https://www.marginallyclever.com/products/makelangelo-5/) - Polargraph robot that draws on a wall, window, or easel.
@@ -72,7 +71,6 @@ Hardware for driving stepper motors and controlling pen plotters.
 
 - [grblShield](https://github.com/synthetos/grblShield) - All the stepper motor control hardware needed to turn an [Arduino](https://www.arduino.cc) into a G-code-based motion controller using the grbl firmware. ([adafruit](https://www.adafruit.com/product/1750))
 - [TinyG](https://github.com/synthetos/TinyG) - More featureful and robust 6-axis G-code-based motion control hardware. ([adafruit](https://www.adafruit.com/product/1749))
-- [Arduino CNC Shield](https://blog.protoneer.co.nz/arduino-cnc-shield) - Grbl-compatible stepper motor control shield for Arduino, similar to the grblShield.
 - [Raspberry Pi CNC Hat](https://wiki.protoneer.co.nz/Raspberry_Pi_CNC) - Raspberry Pi add-on board w/ stepper controllers and a microcontroller running grbl. Interfaces with the Pi's serial pins.
 - [EBB Driver Board](https://shop.evilmadscientist.com/productsmenu/188) - USB-based dual stepper motor controller board, originally designed for the EggBot.
 
@@ -252,8 +250,8 @@ Blog posts, articles, tutorials, galleries, videos, et cetera.
 - [Buildlog.net Atari 1020 Plotter Retrofit](https://www.buildlog.net/blog/2019/10/inktober-project-2019-post-5/) - Blog post and video about converting an Atari 1020 plotter to use a ESP32-based GRBL controller.
 - [Texas Instruments HX-1000 Plotter Photos](http://www.hexbus.com/TI-99_4A_Home_Computer_Page/Hexbus_HX-1000_Printer_Plotter.html) - Photo gallery of the plotter's exterior, interior, and packaging.
 - [Making cheap HP plotter pens](https://scruss.com/blog/2014/04/06/making-cheap-hp-plotter-pens-yet-another-hp-gl-viewer/) - Blog post mainly about using vinyl cutter parts as pen holders.
-- [Marcel Schwittlick and The Long Run](https://www.artxcode.io/journal/marcel-schwittlick-the-long-run) - Interview with Marcel, and lots of photos and videos of his work and workspace.
-- [Lars Wander and Mixing Paint With Code](https://www.artxcode.io/journal/lars-wander-interview) - Interview with Lars Wander, plus art and videos.
+- [Marcel Schwittlick and The Long Run](https://www.artxcode.io/journal/marcel-schwittlick-and-the-long-run) - Interview with Marcel, and lots of photos and videos of his work and workspace.
+- [Lars Wander and Mixing Paint With Code](https://www.artxcode.io/journal/lars-wander-and-mixing-paint-with-code) - Interview with Lars Wander, plus art and videos.
 - [Flatulence, Crystals, and Happy Little Accidents by Nick Fitzgerald (RustConf 2019)](https://www.youtube.com/watch?v=Ho3xr4b60Zg) - A RustConf talk with very little Rust, more about the creative process of generative art and pen plotters.
 - [Recreating Retro Plotter Art, by Sher Minn (Plotter People #1)](https://www.youtube.com/watch?v=OR_TzMFhv50) - Conference talk with lots of great computer and plotter history.
 - [20+ Questions About My Plotter Painting Practice](https://www.eyesofpanda.com/project/plotter_painting_q_a/) - Q&A blog post with lots of details about more painterly plotting.
@@ -415,7 +413,6 @@ Artists selling plotter art online.
 - [Adam Fuhrer](https://adamfuhrer.bigcartel.com)
 - [AndyMakes](https://shop.andymakes.com/)
 - [Arjan van der Meij](https://dutchplottr.nl/en/)
-- [EmergentDesign](https://emergentdesign.bigcartel.com/products)
 - [inconvergent](http://buy.inconvergent.net)
 - [Ingrid Burrington](https://wares.lifewinning.com)
 - [Michael Fogleman](https://www.michaelfogleman.com/plotter)
