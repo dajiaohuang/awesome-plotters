@@ -46,7 +46,7 @@ A short selection of resources to help you get started with pen plotters.
 Pen plotters available to build or purchase, historical information, and restoration projects.
 
 - [AxiDraw](https://shop.evilmadscientist.com/productsmenu/846) - Pen plotter from Evil Mad Scientist.
-- [NextDraw](https://bantamtools.com/collections/bantam-tools-nextdraw) ([store](https://store.bantamtools.com/collections/bantam-tools-nextdraw)) - A Bantam Tools pen plotter and the successor to the AxiDraw.
+- [NextDraw](https://bantamtools.com/collections/bantam-tools-nextdraw) - The new AxiDraw, now from Bantam Tools.
 - [ArtFrame](https://bantamtools.com/collections/artframe) - Beefy flatbed pen plotters from Bantam Tools.
 - [Line-us](https://www.line-us.com) - A cute little kickstarted robotic drawing arm.
 - [Drawing Robot](https://www.thingiverse.com/thing:2349232) - 3d-Printable AxiDraw clone w/ Arduino CNC Shield controller running grbl firmware.
@@ -59,6 +59,7 @@ Pen plotters available to build or purchase, historical information, and restora
 - [BrachioGraph](https://www.brachiograph.art) - A cheap and simple plotter made from sticks, servos, and a Raspberry Pi running Python. Here's [video of a BrachioGraph talk at PyCon UK](https://www.youtube.com/watch?v=u4Jh1daCl60) from the creator.
 - [Arduino CNC Drawing Machine](https://www.diymachines.co.uk/arduino-cnc-drawing-machine) - A fairly simple 3d-printed AxiDraw-style plotter with good video documentation.
 - [PlotterXY](https://github.com/jamescarruthers/PlotterXY) - A coreXY plotter made from extrusion, 3d-printed parts, and an inexpensive 3d-printer control board.
+- [NextDraw](https://store.bantamtools.com/collections/bantam-tools-nextdraw) - The [Bantam Tools](https://www.bantamtools.com) successor to the popular AxiDraw pen plotter.
 - [openBrushograph](https://github.com/openBrushograph/openBrushograph_hardware) - Open source 3d-printable XY gantry and Z-stage designed for automated brush and pen painting.
 - [Lego-Pen-Plotter](https://github.com/Jormono1/Lego-Pen-Plotter) - Pen plotter built entirely of LEGO and programmed with PyBricks and Python.
 - [Makelangelo 5](https://www.marginallyclever.com/products/makelangelo-5/) - Polargraph robot that draws on a wall, window, or easel.
